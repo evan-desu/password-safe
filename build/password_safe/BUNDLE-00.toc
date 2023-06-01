@@ -1,0 +1,3 @@
+([('password_safe',
+   '/Users/evan/Desktop/password-safe/dist/password_safe',
+   'EXECUTABLE')],)
